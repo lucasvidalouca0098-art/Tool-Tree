@@ -1,309 +1,211 @@
 # Language
 
 # all
-on_text="On"
-off_text="Off"
-save_text="Save to:"
-folder_text="Folder"
-option_text="Options"
-setting_text="Settings"
-device_text="Device"
-model_text="Model name"
-infor_text="Info"
-refresh_text="Refresh"
-utilities_text="Utilities"
-tools_text="Tools"
-name_text="Name"
-author_text="Author"
-search_text="Search"
-doc_text="Document"
-addon_text="Add-on"
-home_text="Home"
-checktime="Total time"
-begin_start="Installing data..."
-trademark_text="Brand"
-version_text="Version"
-default_text="Default"
-update_text="Update"
-download_text="Download"
-deleted_text="Remove add-on"
-input_add_text="Import add-on"
-hide_add_text="Hide add-on"
-build_text="Build"
-decompile_text="Decompile"
-projects_text="Current projects"
-sizes_text="Size"
-sign_text="Signature"
-convert_text="Conversion"
-share_text="Share"
-generate_text="Pack"
-alignment_text="Alignment"
-synthetic_text="Synthetic"
-config_text="Configuration"
-time_text="Time"
-pin_text="Pin add-on"
-tool_unpack_text="Decoding tool"
 
-# Home
-home_text_1="App information and features"
-home_text_2="Edit ROM by feature"
-home_text_3="Features requiring root to use"
-home_text_4="Download and install add-ons"
-home_text_5="Run commands"
-home_text_6="Test basic commands"
-home_text_7="Execute commands for testing"
+on_text="Ligado"
+off_text="Desligado"
+save_text="Salvar em:"
+folder_text="Pasta"
+option_text="Opções"
+setting_text="Configurações"
+device_text="Dispositivo"
+model_text="Nome do modelo"
+infor_text="Informações"
+refresh_text="Atualizar"
+utilities_text="Utilitários"
+tools_text="Ferramentas"
+name_text="Nome"
+author_text="Autor"
+search_text="Pesquisar"
+doc_text="Documento"
+addon_text="Complemento"
+home_text="Início"
+checktime="Tempo total"
+begin_start="Instalando dados..."
+trademark_text="Marca"
+version_text="Versão"
+default_text="Padrão"
+update_text="Atualizar"
+download_text="Baixar"
+deleted_text="Remover complemento"
+input_add_text="Importar complemento"
+hide_add_text="Ocultar complemento"
+build_text="Compilar"
+decompile_text="Descompilar"
+projects_text="Projetos atuais"
+sizes_text="Tamanho"
+sign_text="Assinatura"
+convert_text="Conversão"
+share_text="Compartilhar"
+generate_text="Empacotar"
+alignment_text="Alinhamento"
+synthetic_text="Sintético"
+config_text="Configuração"
+time_text="Tempo"
+pin_text="Fixar complemento"
+tool_unpack_text="Ferramenta de extração"
 
-# More
+Home
+
+home_text_1="Informações e recursos do aplicativo"
+home_text_2="Editar ROM por recursos"
+home_text_3="Recursos que exigem root"
+home_text_4="Baixar e instalar complementos"
+home_text_5="Executar comandos"
+home_text_6="Testar comandos básicos"
+home_text_7="Executar comandos para teste"
+
+More
+
 more_text_1="Apkeditor"
-more_text_2="APK decompile and build tools"
-more_text_3="Import signature"
-more_text_4="Detect file:"
-more_text_5="Missing file:"
-more_text_6="App editing utilities"
-more_text_7="Features requiring root to use"
-more_text_8="Download and install add-ons"
-more_text_9="Execute commands for testing"
-more_text_10="Import"
+more_text_2="Ferramentas para descompilar e compilar APK"
+more_text_3="Importar assinatura"
+more_text_4="Detectando arquivo:"
+more_text_5="Arquivo ausente:"
+more_text_6="Utilitários de edição de aplicativos"
+more_text_7="Recursos que exigem root"
+more_text_8="Baixar e instalar complementos"
+more_text_9="Executar comandos para teste"
+more_text_10="Importar"
 
-# Settings
-setting_text_1="Information"
-setting_text_2="View notifications and updates"
-setting_text_3="Projects"
-setting_text_4="Modify and clean projects"
-setting_text_5="Other permissions"
-setting_text_6="Grant permissions and battery saver"
-setting_text_7="Features"
-setting_text_8="Change, enable/disable features"
+Settings
 
-# Permissions
-permis_text_1="Disable battery optimization"
-permis_text_2="Language"
-permis_text_3="Note: Restart the app to apply changes"
-permis_text_4="File access permission"
-permis_text_5="Change language"
+setting_text_1="Informações"
+setting_text_2="Ver notificações e atualizações"
+setting_text_3="Projetos"
+setting_text_4="Modificar e limpar projetos"
+setting_text_5="Outras permissões"
+setting_text_6="Conceder permissões e desativar economia de bateria"
+setting_text_7="Recursos"
+setting_text_8="Alterar, ativar ou desativar recursos"
 
-# Project
-project_text_1="ROM directory"
-project_text_2="APK directory"
-project_text_3="Clean project"
-project_text_4="Directly delete decoded projects; shows both decoded ROM and APK directories"
-project_text_5="Swap home"
-project_text_6="Add shortcut to run commands"
-project_text_7="Hide icon"
-project_text_8="Notifications"
-project_text_9="This is the maximum memory allocated for Java, e.g., 1024m. Only increase it for large builds and when the device has enough RAM to avoid heavy lag."
-project_text_10="Allocate RAM for Java"
-project_text_11="Keep screen on while running commands"
-project_text_12="CPU Limit"
-project_text_13="After selection, the CPU will be limited to the chosen number"
+Permissions
 
-# mount img
-mount_text_1="Mount IMG"
-mount_text_2="For ext img files they can be edited; erofs files are view-only"
+permis_text_1="Desativar otimização de bateria"
+permis_text_2="Idioma"
+permis_text_3="Nota: Reinicie o aplicativo para aplicar as alterações"
+permis_text_4="Permissão de acesso a arquivos"
+permis_text_5="Alterar idioma"
 
-# umount img
-umount_text_1="Unmount IMG"
-umount_text_2="Image file saved when mounted"
-umount_text_3="After unmounting, if edited it will save to the original file when mounted"
+Project
 
-# backup img
-backup_text_1="Backup IMG"
-backup_text_2="After backup the file will be saved at:"
-backup_text_3="! Does not exist:"
-backup_text_4="Backing up:"
+project_text_1="Diretório da ROM"
+project_text_2="Diretório do APK"
+project_text_3="Limpar projeto"
+project_text_4="Excluir diretamente projetos decodificados; mostra diretórios de ROM e APK"
+project_text_5="Trocar tela inicial"
+project_text_6="Adicionar atalho para executar comandos"
+project_text_7="Ocultar ícone"
+project_text_8="Notificações"
+project_text_9="Esta é a memória máxima alocada para Java. Aumente apenas para builds grandes e quando houver RAM suficiente."
+project_text_10="Alocar RAM para Java"
+project_text_11="Manter tela ligada ao executar comandos"
+project_text_12="Limite de CPU"
+project_text_13="Após selecionar, a CPU será limitada ao número escolhido"
 
-# flash img
-flash_text_1="Flash IMG"
-flash_text_2="Reboot when finished"
-flash_text_3="Boot into Recovery after flash"
-flash_text_4="Select IMAGE to flash"
-flash_text_5="Note: The IMAGE size must not exceed the original size, otherwise it may cause bootloop"
-flash_text_6="Enter the file (***.img) to flash"
-flash_text_7="Note: Must be a raw img file"
-flash_text_8="Can only flash while in recovery!"
-flash_text_9="Countdown to recovery mode"
-flash_text_10="Countdown to reboot"
-flash_text_11="Does not exist, cannot flash"
-flash_text_12="Completed"
+mount img
 
-# Decode
-decode_text_1="Do not decode IMG file"
-decode_text_2="When enabled this feature will only extract the img next to the original file"
-decode_text_3="Combined decode for .br .dat .img .zst .zstd payload.bin files"
+mount_text_1="Montar IMG"
+mount_text_2="Arquivos ext podem ser editados; erofs é apenas leitura"
 
-# Build
-builds_text_1="Build previously decoded projects"
-builds_text_2="Partition format and build tools"
-builds_text_3="erofs compression method"
-builds_text_4="Compression level"
-builds_text_5="erofs compression level"
-builds_text_6="Level"
-builds_text_7="Note: Value 0 corresponds to 0Mb free space; adding empty space only applies to ext4 and f2fs partitions"
-builds_text_8="Patch avb, vbmeta and fstab files"
-builds_text_9="Automatically find and patch avb, vbmeta, fstab before building"
-builds_text_10="Compression level will be taken from file conversion section"
+umount img
 
-# build super
-super_text_2="Package type"
-super_text_3="Format"
-super_text_5="Group name"
-super_text_6="Each device may have a different group name"
-super_text_7="Choose IMG files to package into super.img"
+umount_text_1="Desmontar IMG"
+umount_text_2="Arquivo salvo quando montado"
+umount_text_3="Após desmontar, se editado será salvo no arquivo original"
 
-# build payload
-payload_text_2="Select an img file to pack into payload.bin"
-payload_text_3="Dynamic partition"
-payload_text_4="Only effective when dynamic partition is enabled"
+backup img
 
-# cover img
-convert_text_1="Convert files"
-convert_text_2="Compression level for .br and .zstd files — higher values take longer to compress"
-convert_text_3="List of input files .br .dat .zstd .img"
+backup_text_1="Backup de IMG"
+backup_text_2="Após o backup o arquivo será salvo em:"
+backup_text_3="Não existe:"
+backup_text_4="Fazendo backup:"
 
-# split super
-super_split_text_1="Split Super"
-super_split_text_2="Default: 1024M per file when splitting"
-super_split_text_3="Select super.img files to split"
-super_split_text_4="Splitting"
+flash img
 
-# super_merge
-super_merge_text_1="Merge Super"
-super_merge_text_2="Merging super.img"
-super_merge_text_3="Select super.img.* files to merge into super.img"
+flash_text_1="Instalar IMG"
+flash_text_2="Reiniciar quando terminar"
+flash_text_3="Entrar no Recovery após instalar"
+flash_text_4="Selecionar imagem para instalar"
+flash_text_5="Nota: o tamanho da imagem não pode exceder o original"
+flash_text_6="Digite o arquivo (.img) para instalar"
+flash_text_7="Deve ser um arquivo raw img"
+flash_text_8="Só pode instalar em modo recovery"
+flash_text_9="Contagem regressiva para recovery"
+flash_text_10="Contagem regressiva para reiniciar"
+flash_text_11="Arquivo não existe, não é possível instalar"
+flash_text_12="Concluído"
 
-# APK
-decom_apk_text_1="Decode as XML"
-decom_apk_text_2="Decode as Json"
-decom_apk_text_3="Do not decode"
-decom_apk_text_4="Default: 41, smali 2.5.2: 35, smali 3.0.9: 41 and below"
-decom_apk_text_5="Only AndroidManifest.xml"
-decom_apk_text_6="Other features"
-decom_apk_text_7="Remove debug-info in smali"
-decom_apk_text_8="Decode editable xml, json"
-decom_apk_text_9="List of supported file types: apk, zip, apks"
-decom_apk_text_10="Decode Resources.arsc"
-decom_apk_text_11="Decode resources"
-decom_apk_text_12="Decode classes*.dex"
-decom_apk_text_13="Copy original Manifest.xml"
-decom_apk_text_14="Dex redivision"
+Decode
 
-# build apk
-build_apk_text_1="Sort and filter text"
+decode_text_1="Não decodificar arquivo IMG"
+decode_text_2="Quando ativado apenas extrai a imagem"
+decode_text_3="Decodificação combinada para .br .dat .img .zst .zstd payload.bin"
 
-# restore sign
-restore_apk_text_1="Import file with original signature"
-restore_apk_text_2="Import file to restore"
-restore_apk_text_3="Restore signature"
+Build
 
-# disturb apk
-distur_apk_text_1="Encrypt resources to make APK harder to analyze"
-distur_apk_text_2="Obfuscate"
+builds_text_1="Compilar projetos previamente decodificados"
+builds_text_2="Formato da partição e ferramentas de build"
+builds_text_3="Método de compressão erofs"
+builds_text_4="Nível de compressão"
+builds_text_5="Nível de compressão erofs"
+builds_text_6="Nível"
+builds_text_7="Valor 0 significa sem espaço livre"
+builds_text_8="Aplicar patch em avb, vbmeta e fstab"
+builds_text_9="Localizar e aplicar patch automaticamente antes do build"
+builds_text_10="O nível será obtido da seção de conversão"
 
-# apk restore
-apk_restore_text_1="Restore encrypted APK resources to readable form"
-apk_restore_text_2="Restore"
+update
 
-# merge apks
-apk_mager_text_1="Convert apks package to apk"
-apk_mager_text_2="Merge apks"
-
-# Add-ons
-addon_text_1="Add-on error"
-addon_text_2="After activation, leaving the add-on page will remove it"
-addon_text_3="Starting add-on installation..."
-addon_text_10="Only hides the add-on from the home page; it will still execute code if an early_start.sh startup file exists"
-
-# Unpack
-unpack_text_0="Converting:"
-unpack_text_1="Extracting:"
-unpack_text_2="Log saved at:"
-unpack_text_3="Failed!"
-unpack_text_4="No ramdisk.cpio!"
-unpack_text_5="Decompile failed:"
-unpack_text_6="Not decompiled:"
-unpack_text_7="Note: When decompiling a sparse super it will only convert to raw; you must decompile again"
-unpack_text_8="Decompiling not supported for:"
-
-# Super
-supers_text_1="Packing super failed!"
-supers_text_2="Packing super succeeded"
-
-# Repack
-replag_text_1="Start decompiling"
-replag_text_2="Building"
-replag_text_3="Packaging error - see error code:"
-
-# Load
-load_text_1="Connecting data..."
-load_text_2="Network error, please check"
-
-# APK errors
-apke_text_1="APK decompile error"
-apke_text_2="Decompiled"
-apke_text_3="APK file error"
-
-# APK build
-apkb_text_1="Identifying target:"
-apkb_text_2="Checking text..."
-apkb_text_3="Check finished"
-apkb_text_4="Build completed"
-apkb_text_5="Keep original signature"
-apkb_text_6="Using signature:"
-
-# add lang
-addlang_text_1="Add language"
-addlang_text_2="Compress lib.so"
-addlang_text_3="If it's a system APK, do not compress; it may read lib.so directly"
-
-# backup apk
-backups_text_1="Only backup apk files; apks do not backup data"
-backups_text_2="Backup"
-backups_text_3="App"
-
-# update
-update_text_2="Checking for updates..."
-update_text_3="Starting download..."
-update_text_4="You are using the latest version."
+update_text_2="Verificando atualizações..."
+update_text_3="Iniciando download..."
+update_text_4="Você está usando a versão mais recente."
 update_text_5="Github"
-update_text_6="A new version is available. Please update the app: Settings > About > Update"
+update_text_6="Uma nova versão está disponível. Atualize em Configurações > Sobre > Atualizar"
 
-# dexopt
+dexopt
+
 dexopt_app_text="Dexopt"
-dexopt_app_text_1="Speed up application startup"
-dexopt_app_text_2="All system packages"
-dexopt_app_text_3="If this option is enabled, the application list above will have no effect"
+dexopt_app_text_1="Acelerar a inicialização do aplicativo"
+dexopt_app_text_2="Todos os pacotes do sistema"
+dexopt_app_text_3="Se ativado, a lista de aplicativos acima não terá efeito"
 
-# framework auto
-framework_auto_text="Auto framework import"
+framework auto
 
-# Tính năng
-feature_hide_text="Hidden features on/off"
-use_apktool_text="Apktool editor"
-use_network_text="Data network usage required, to continue updating"
-root_warning_text="Please root the device to use this feature"
-root_warning_text_1="Root access is required to use"
-deleted_file_text="Delete original file after completion"
-deleted_project_text="Delete project after build"
-google_translate_text="Google translate"
+framework_auto_text="Importação automática de framework"
 
-# apex editor
-apex_text="Apex editor"
-apex_text_1="Compress apex into capex"
-apex_text_2="File support: apex, capex"
+Features
 
-# other
-xoaoat_text_1="Clean oat and odex entries"
-open_activity_text="Open folder:"
-patch_text_fscontex="Patch fs_config and fs_contexts"
-build_time_text_1="ROM build time"
-build_time_text_2="Present:"
-config_text_1="Convert existing projects"
-config_text_2="Create a new project or select a folder"
+feature_hide_text="Ativar ou desativar recursos ocultos"
+use_apktool_text="Editor Apktool"
+use_network_text="É necessário usar rede de dados para continuar a atualização"
+root_warning_text="Faça root no dispositivo para usar este recurso"
+root_warning_text_1="Acesso root é necessário para usar"
+deleted_file_text="Excluir arquivo original após concluir"
+deleted_project_text="Excluir projeto após build"
+google_translate_text="Google Tradutor"
 
-# boot
-boot_text_1="Java is installing, please reopen after 1-2 minutes..."
-boot_text_3="Debug version"
-boot_text_4="10 minutes of app usage."
-boot_text_5="The debug version can only be used for 10 minutes."
-boot_text_6="The trial time for the debug version has expired."
-boot_text_7="Warning: The application has been modified. Please download the official version from GitHub: Zenlua/Tool-Tree"
+apex editor
+
+apex_text="Editor Apex"
+apex_text_1="Compactar apex para capex"
+apex_text_2="Arquivos suportados: apex, capex"
+
+other
+
+xoaoat_text_1="Limpar arquivos oat e odex"
+open_activity_text="Abrir pasta:"
+patch_text_fscontex="Aplicar patch em fs_config e fs_contexts"
+build_time_text_1="Data de build da ROM"
+build_time_text_2="Atual:"
+config_text_1="Converter projetos existentes"
+config_text_2="Criar novo projeto ou selecionar pasta"
+
+boot
+
+boot_text_1="Java está sendo instalado, reabra o aplicativo em 1–2 minutos..."
+boot_text_3="Versão de depuração"
+boot_text_4="10 minutos de uso do aplicativo."
+boot_text_5="A versão de depuração só pode ser usada por 10 minutos."
+boot_text_6="O tempo de teste da versão de depuração expirou."
+boot_text_7="Aviso: o aplicativo foi modificado. Baixe a versão oficial no GitHub: Zenlua/Tool-Tree"
